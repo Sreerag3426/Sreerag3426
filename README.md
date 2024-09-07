@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sreerag V
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...React and Node JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sreeragv953@gmail.com
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning ...NextJS
+- 💞️ I’m looking to collaborate on ...React and Node JS
+- 📫 How to reach me ...sreeragv9539@gmail.com
 
 
